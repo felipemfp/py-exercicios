@@ -12,3 +12,6 @@ def fahrenheit_to_celsius(degrees):
 
 print("Celsius para Fahrenheit (32° C) =>", "{0}° F".format(celsius_to_fahrenheit(32)))
 print("Fahrenheit para Celsius (89,6° F) =>", "{0}° C".format(fahrenheit_to_celsius(89.6)))
+
+# Celsius para Fahrenheit (32° C) => 89.6° F
+# Fahrenheit para Celsius (89,6° F) => 32.0° C
