@@ -12,7 +12,7 @@ def compare(folder_a, folder_b):
 	
 	for file in lst_a:
 		if file in lst_b:
-			if not open(os.path.join(folder_a, file)).read() != open(os.path.join(folder_b, file)).read():
+			if open(os.path.join(folder_a, file)).read() != open(os.path.join(folder_b, file)).read():
 				print(file, "diferente")
 		else:
 			print(file, "apenas em", folder_a)
@@ -24,5 +24,4 @@ def compare(folder_a, folder_b):
 
 compare("folder1", "folder2")
 
-# target1.txt diferente
 # target2.txt apenas em folder1
