@@ -13,29 +13,29 @@ Um repositório de exercícios do livro **Python para Desenvolvedores** de [Luiz
 ### Parte I
 Esta parte trata de conceitos básicos sobre a linguagem de programação Python, incluindo sintaxe, tipos, estruturas de controle, funções e documentação.
 
-[Respostas dos exercícios I](exericios-i/)
+[Respostas dos exercícios I](exercicios-i/)
 
 ### Parte II
 Esta parte trata de módulos e pacotes, destacando alguns dos mais relevantes que estão presentes na biblioteca padrão da linguagem, instalação de bibliotecas de terceiros, exceções e introspecção.
 
-[Respostas dos exercícios II](exericios-ii/)
+[Respostas dos exercícios II](exercicios-ii/)
 
 ### Parte III
 Esta parte é dividida em dois assuntos: geradores, uma tecnologia cada vez mais presente na linguagem, e programação funcional.
 
-[Respostas dos exercícios III](exericios-iii/)
+[Respostas dos exercícios III](exercicios-iii/)
 
 ### Parte IV
 Esta parte se concentra principalmente na orientação a objetos, e também aborda decoradores e testes automatizados.
 
-[Respostas dos exercícios IV](exericios-iv/)
+[Respostas dos exercícios IV](exercicios-iv/)
 
 ### Parte V
 Esta parte cobre diversas tecnologias que os aplicativos hoje tem a disposição: principalmente para lidar com armazenamento e troca de informações: acesso a banco de dados, persistência, XML e Web. Além desses tópicos, temos o uso de threads e a arquitetura MVC.
 
-[Respostas dos exercícios V](exericios-v/)
+[Respostas dos exercícios V](exercicios-v/)
 
 ### Parte VI
 Esta parte apresenta algumas funcionalidades dos pacotes NumPy, SciPy e Matplolib, e também de conhecidos toolkits para interfaces gráficas. Além disso, uma breve introdução a computação gráfica e processamento distribuído. E por fim, observações sobre performance no Python e formas de empacotar e distribuir aplicativos.
 
-[Respostas dos exercícios VI](exericios-vi/)
+[Respostas dos exercícios VI](exercicios-vi/)
